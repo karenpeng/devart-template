@@ -24,10 +24,10 @@ function onFrame(event) {
       var mobileWorm = [];
       worms.forEach(function (w) {
         var myWorm = {
-          p: w.path.toJSON()[1],
-          m: w.mouseRelease,
-          g: w.gap,
-          d: w.dis
+          myPath        :w.path.toJSON()[1],
+          myMouseRelease: w.mouseRelease,
+          myGap         : w.gap,
+          myDis         : w.dis
         };
         mobileWorm.push(myWorm);
         w.path.removeSegments();

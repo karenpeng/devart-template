@@ -1,0 +1,92 @@
+html,body{
+  margin: 0;
+  padding: 0;
+  top: 0;
+  left: 0;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+#myCanvas{
+  border: solid black 1px;
+}
+
+#init, #welcome{
+  width: 100%;
+  height: 100%;
+
+  color: #00bd67;
+  text-align: center;
+}
+#init{
+  margin: 20% auto;
+  font-size: 50px;
+}
+
+#welcome{
+  margin: 45% auto;
+  font-size: 36px;
+}
+
+#mobileIntro{
+  width: 100%;
+  height: 100%;
+  margin: 20% auto 0;
+  font-size: 20px;
+  text-align: center;
+}
+
+#mobileIntro img{
+  display: block;
+  width: 140px;
+  margin: 20px auto 40px;
+}
+
+#ok{
+  width: 140px;
+  padding: 10px 0;
+  margin: 20px auto;
+  font-size: 24px;
+  text-align: center;
+  border: solid black 2px;
+}
+#laptopIntro{
+  position: absolute;
+  left: 50%;
+}
+
+#QR{
+  margin-left: -154px;
+  text-align: center;
+  border: solid #dfdfdf 1px;
+}
+#laptopIntro p{
+  padding: 10px;
+  margin: 0;
+}
+#laptopIntro img{
+  width: 200px;
+  height: 200px;
+  display: block;
+  margin: 0 auto 10px;
+  padding: 10px 64px;
+}
+#showQR{
+  position: absolute;
+  width: 20px;
+  margin-left: -10px;
+  padding: 5px;
+  text-align: center;
+  color: #555;
+  border: solid #bfbfbf 1px;
+  border-top: none;
+}
+#showQR:hover{
+  cursor:pointer;
+}
+#inspire{
+  font-size: 11px;
+}
+#inspire a{
+  text-decoration: none;
+  color: blue;
+}
