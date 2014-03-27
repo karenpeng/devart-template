@@ -7,15 +7,15 @@ A magical cooperating drawing experience.
 - http://karenlabs.com
 
 ## Description
-Inspired by Golan Levin's Yellow Tail, I want to make xxxx. A huge display screen and everybody could use their own mobilephone to get involved in.
+Inspired by Golan Levin's Yellowtail, I like the idea of drawing something then comes to life, also, I want to augment this magic moment in which the drawing transforms from static to dynamic.
+What’s more, I'd like this drawing experience to be multi-player. Thus people could cooperate with each other coming up with drawing contents, strategies, etc.
+Therefore I came down to the idea that using touch based devices for people to draw still strokes, and then desktop computers to display the vivid animation of their drawings. A shake from the mobile device triggers the transformation. And with web socket, communications between multiple clients is supported.
+My ideal scenario of this piece being played is that a huge display screen in a public space invites people to participate in simply using their own smart phones or tablets.
 
 ## Link to Prototype
-NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
-
 [Yellow Tail](http://yellowtail.karenlabs.com "Yellow Tail")
 
 ## Example Code
-NOTE: Wrap your code blocks or any code citation by using ``` like the example below.
 ```
 function onFrame(event) {
   frameCount++;
@@ -24,7 +24,7 @@ function onFrame(event) {
       var mobileWorm = [];
       worms.forEach(function (w) {
         var myWorm = {
-          myPath        :w.path.toJSON()[1],
+          myPath        : w.path.toJSON()[1],
           myMouseRelease: w.mouseRelease,
           myGap         : w.gap,
           myDis         : w.dis
@@ -48,13 +48,7 @@ function onFrame(event) {
 }
 ```
 ## Links to External Libraries
- NOTE: You can also use this space to link to external libraries or Github repositories you used on your project.
-
-[Paper Js](http://paperjs.org/ "Paper Js")
+[Paper js](http://paperjs.org/ "Paper js")
 
 ## Images & Videos
-NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
-
-![Example Image](project_images/cover.jpg?raw=true "Example Image")
-
 http://www.youtube.com/watch?v=Lh_FMDDpVxA&list=UUsa7fbowwLi94D5M788uzPg
