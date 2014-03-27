@@ -9,7 +9,9 @@ A magical cooperating drawing experience.
 ## Description
 Inspired by Golan Levin's Yellowtail, I like the idea of drawing something then comes to life, also, I want to augment this magic moment in which the drawing transforms from static to dynamic.
 What’s more, I'd like this drawing experience to be multi-player. Thus people could cooperate with each other coming up with drawing contents, strategies, etc.
+
 Therefore I came down to the idea that using touch based devices for people to draw still strokes, and then desktop computers to display the vivid animation of their drawings. A shake from the mobile device triggers the transformation. And with web socket, communications between multiple clients is supported.
+
 My ideal scenario of this piece being played is that a huge display screen in a public space invites people to participate in simply using their own smart phones or tablets.
 
 ## Link to Prototype
