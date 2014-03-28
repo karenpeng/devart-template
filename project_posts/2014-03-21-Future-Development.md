@@ -4,20 +4,20 @@ My ideal scenario of this piece being played is that a huge display screen, or p
 Therefore, I, here raise some proposal for its future development:
 
 1.  Refine the visual expression:
-    a. Try different types of strokes:
-      oil-painting, water-color, pencil, etc
-    b.Try different themes of drawing:
-      Oceans theme: people’s stroke become aquatic organism, swimming on the display;
-      Insect theme: what people’s drawing becomes is wormy insects, crawling on the mud.
-      Traffic theme: long strokes turn into highways, small dots become vehicles, people could design a traffic system together.
+    &nbspa. Try different types of strokes:
+      &nbsp&nbspoil-painting, water-color, pencil, etc
+    &nbspb.Try different themes of drawing:
+      &nbsp&nbspOceans theme: people’s stroke become aquatic organism, swimming on the display;
+      &nbsp&nbspInsect theme: what people’s drawing becomes is wormy insects, crawling on the mud.
+      &nbsp&nbspTraffic theme: long strokes turn into highways, small dots become vehicles, people could design a traffic system together.
 
 2.  Improve the experience:
-  a. Give guidance to people
-    Teach people how to draw certain things together so as to make the piece as a whole;
-    Show them how all the drawings interact with each other serve as a system, for an instance, a traffic system.
+  &nbspa. Give guidance to people
+    &nbsp&nbspTeach people how to draw certain things together so as to make the piece as a whole;
+    &nbsp&nbspShow them how all the drawings interact with each other serve as a system, for an instance, a traffic system.
 
-  b. Leave a purpose
-    Give people some goals to achieve. Like, a traffic system like won’t easily have car crash, or, moving all the yellow fish to a safe place to avoid the shark.
+  &nbspb. Leave a purpose
+    &nbsp&nbspGive people some goals to achieve. Like, a traffic system like won’t easily have car crash, or, moving all the yellow fish to a safe place to avoid the shark.
 
 
 
