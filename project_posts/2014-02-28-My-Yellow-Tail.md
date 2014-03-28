@@ -6,7 +6,7 @@ My original inspiration is Golan Levin’s <a href="http://www.flong.com/project
 what I really like is the magic of drawing something then becomes real.
 I really want to emphasize this magic moment and make it playful to many people.
 
-My idea is to using touch devices for people to draw, and then a giant display to make their drawing come to life.
+My idea is to use touch devices for people to draw, and then a giant display to make their drawing come to life.
 ![Idea](../project_images/idea.jpg?raw=true "Idea")
 
-In this interaction, people's power is amplified, provoking us to think.
+Via this interaction, people's power is amplified, leaving rooms for thoughts to be provoked.
