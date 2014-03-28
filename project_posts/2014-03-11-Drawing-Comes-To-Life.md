@@ -1,6 +1,4 @@
-My original inspiration is Golan Levin’s <a href="http://www.flong.com/projects/yellowtail/">Yellowtail</a>, what I want to do is to emphasize the magic moment of drawing something that could become real.
-
-I spend quite some time staring at the original piece, and going through the api of the framework I use: paperjs.
+I spend quite some time staring at the original piece, and going through the api of the framework I plan to use: paperjs.
 
 First, I realize that how I draw line with thickness is gerating pairs of poins in the middle of the stroke:
 ![Points](../project_images/points.jpg?raw=true "Points")
