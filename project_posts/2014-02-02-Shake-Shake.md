@@ -38,7 +38,7 @@ function ifShake(x, y, z) {
 
 ```
 
-Ok, now I write a function emitting data from the mobile phone to the laptop when shaking is detected via socket.io.
+Ok, now I write a function emitting data from the mobile phone to the laptop when shaking is detected.
 At the same time, the original strokes on your phone are deleted so as to create a feeling that the drawing goes from one place to another.
 ```
  if (shake && worms.length > 0) {
