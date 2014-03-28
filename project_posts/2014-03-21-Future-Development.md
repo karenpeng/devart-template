@@ -1,7 +1,7 @@
-My ideal scenario of this piece being played is that a huge display screen, or projector to a giant wall, in a public space invites people to participate in simply using their own smart phones or tablets.
+My ideal scenario of this piece is being played is that a huge display screen, or projector to a giant wall, in a public space invites people to participate in simply using their own smart phones or tablets.
 ![Future Development](../project_images/future_diagram.jpg?raw=true "Future Development")
 
-Therefore, I, here raise some proposal for its future development:
+Therefore, I, here raise some proposals for its future development:
 
 1.  Refine the visual expression:
 
@@ -17,10 +17,10 @@ Therefore, I, here raise some proposal for its future development:
 
   a. Give guidance to people
     Teach people how to draw certain things together so as to make the piece as a whole;
-    Show them how all the drawings interact with each other serve as a system, for an instance, a traffic system.
+    Show them how all the drawings interact with each other to serve as a system, for an instance, a traffic system.
 
   b. Leave a purpose
-    Give people some goals to achieve. Like, a traffic system like won’t easily have car crash, or, moving all the yellow fish to a safe place to avoid the shark.
+    Give people some goals to achieve. Like, a traffic system that won’t easily have car crash, or, to make all the yellow fish move to a safe place to avoid the shark.
 
 
 

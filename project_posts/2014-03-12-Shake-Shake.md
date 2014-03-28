@@ -2,7 +2,7 @@ The next step is to augment this magic moment when the drawing transforms from s
 
 My idea is that it keeps still in a touch-based device, and comes vivid in a large desktop computer screen.
 What serves as the trigger?
-Shake you smart phone!
+Shake your smart phone!
 
 I begin to search for methods that detect motion of mobile devices, and I find this <a href="http://www.html5rocks.com/en/tutorials/device/orientation/">article</a> about DeviceMotionEvent.
 From which I know that, what really works is an event handler:
