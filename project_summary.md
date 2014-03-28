@@ -12,7 +12,7 @@ What’s more, I'd like this drawing experience to be multi-player. Thus people 
 
 Therefore I came down to the idea that using touch based devices for people to draw still strokes, and then desktop computers to display the vivid animation of their drawings. A shake from the mobile device triggers the transformation. And with web socket, communications between multiple clients is supported.
 
-My ideal scenario of this piece being played is that a huge display screen, or projector to a giant wall, in a public space invites people to participate in simply using their own smart phones or tablets.
+My ideal scenario of how this piece being played is that a huge display screen, or projector to a giant wall, in a public space invites people to participate in simply using their own smart phones or tablets.
 
 ## Link to Prototype
 [Yellow Tail](http://yellowtail.karenlabs.com "Yellow Tail")
