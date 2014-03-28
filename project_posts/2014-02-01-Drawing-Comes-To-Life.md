@@ -2,7 +2,7 @@ My original inspiration is Golan Levin’s <a href="http://www.flong.com/project
 
 I spend quite some time staring at the original piece, and going through the api of the framework I use: paperjs.
 
-First, I realize that how I draw line with thickness is this:
+First, I realize that how I draw line with thickness is gerating pairs of poins in the middle of the stroke:
 ![Points](../project_images/points.jpg?raw=true "Points")
 
 Ths code is like this:
@@ -33,16 +33,15 @@ function onMouseUp(event) {
 
 ```
 
-Then, from the observation of Golan’s yellowtail,  I come down to the algorithm:
+
+Then, from the observation of Golan’s yellowtail,  I come down to the algorithm, which is putting the beginning pair of points to the back:
 ![Crawl](../project_images/crawl.jpg?raw=true "Crawl")
 How it moves is simply repeating this procedure over and over again.
 
-The code:
+I write the code:
 ```
-var newTop = this.path.segments[this.path.segments.length / 2 - 2].point +
-  this.dis;
-var newBottom = this.path.segments[this.path.segments.length / 2].point +
-  this.dis;
+var newTop = this.path.segments[this.path.segments.length / 2 - 2].point + this.dis;
+var newBottom = this.path.segments[this.path.segments.length / 2].point + this.dis;
 
 this.path.removeSegment(this.path.segments.length / 2 - 2);
 this.path.insert(0, newTop);
@@ -61,7 +60,7 @@ this.path.segments[this.path.segments.length / 2 - 1].point =
 
 ```
 
-Ok, now is is time to run a test.
+Ok, now it is time to run a test.
 
 https://www.youtube.com/watch?v=MJ2vEjRQbfA
 
