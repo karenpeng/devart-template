@@ -4,12 +4,16 @@
       "insert apis"
     ],
     "platforms": [
-      "Chrome Apps"
+      "Chrome Apps",
+      "ios",
+      "android"
     ],
     "toolkits": [
       "jquery",
       "nodejs",
-      "socketio"
+      "socketio",
+      "expressjs",
+      "paperjs"
     ]
   },
   "themes": [
